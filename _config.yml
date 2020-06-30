@@ -83,8 +83,11 @@ author:
   name             : "Oriol J. Bosch"
   avatar           : "profile.png"
   bio              : "A Survey Methodologist in the era of Big Data"
+  "PhD Candidate at The London School of Economics," 
+  "[Department of Methodology](http://www.lse.ac.uk/Methodology) & Researcher"
+  "at the [Research and Expertise Centre for Survey Methodology](https://www.upf.edu/web/survey)"
   location         : "London, United Kingdom"
-  employer         : "PhD Candidate at The London School of Economics, [Department of Methodology](http://www.lse.ac.uk/Methodology) & Researcher at the [Research and Expertise Centre for Survey Methodology](https://www.upf.edu/web/survey)"
+  employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HFj2KYkAAAAJ&hl=ca&oi=sra"
   email            :
