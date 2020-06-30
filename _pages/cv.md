@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *Ph.D in Social Research Methods, The London School of Economics and Political Science 
+  * London, United Kingdom
+  * 2019/2023
+  * Supervisors: Patrick Sturgis and Jouni Kuha
+* MSc. in Survey Methods for Social Research, University of Essex
+  * Colchester, United Kingdom
+  * 2018/2019
+  * Thesis: Answering web surveys with images: an experiment
+    David Lockwood Prize-Best dissertation in the Department of Sociology
+* BS in Political and Administration Science, Universitat Pompeu Fabra
+  * Barcelona, Spain
+  * 2013/2017
+  * Thesis: [The impact of the response format on the left-right self-placement](https://repositori.upf.edu/bitstream/handle/10230/32547/Boschimpacte.pdf?sequence=1&isAllowed=y)
+    With honors
 
 Work experience
 ======
