@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[<ins>Also available in PDF format</ins>](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUN2020.pdf)
 
 Education
 ======
