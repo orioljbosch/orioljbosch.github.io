@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Oriol J. Bosch"
   avatar           : "Profile pic (2).png"
-  bio              : "A Survey Methodologist in the era of Big Data"
+  bio              : "A Survey Methodologist in the era of Big Data              [`Download my CV`](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUN2020.pdf)"
   location         : "London, United Kingdom"
   employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HFj2KYkAAAAJ&hl=ca&oi=sra"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Oriol_Bosch2"
+  email            : "o.bosch-jover@lse.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Oriol_Bosch2"
   uri              :
   bitbucket        :
   codepen          :
