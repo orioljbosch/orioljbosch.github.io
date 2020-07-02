@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Measurement Reliability, Validity, and Quality of Slider Versus Radio Button Scales in an Online Probability-Based Panel in Norway"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/SSCR-NCP-18
+excerpt: 'Little is known about the reliability and validity in web surveys, although this is crucial information to evaluate how accurate the results might be and/or to correct for measurement errors. In particular, there are few studies based on probability-based samples for web surveys, looking at web-specific response scales and considering the impact of having smartphone respondents. In this article, we start filling these gaps by estimating the measurement quality of sliders compared to radio button scales controlling for the device respondents used. We conducted therefore two multitrait–multimethod (MTMM) experiments in the Norwegian Citizen Panel (NCP), a probability-based online panel. Overall, we find that if smartphone respondents represent a nonnegligible part of the whole sample, offering the response options in form of a slider or a radio button scale leads to a quite similar measurement quality. This means that sliders could be used more often without harming the data quality. Besides, if there are no smartphone respondents, we find that sliders can also be used, but that the marker should be placed initially in the middle rather than on the left side. However, in practice, there is no need to shift from radio buttons to sliders since the quality is not highly improved by providing sliders.'
+date: 2019
+venue: 'Social Science Computer Review'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/0894439317750089'
+citation: 'Bosch, O. J., Revilla, M., DeCastellarnau, A., & Weber, W. (2019). Measurement reliability, validity, and quality of slider versus radio button scales in an online probability-based panel in Norway. Social Science Computer Review, 37(1), 119-132.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
