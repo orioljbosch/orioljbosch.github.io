@@ -1,12 +1,12 @@
 ---
-title: "Unbalanced 3-Group Split-Ballot Multitrait–Multimethod Design?"
+title: "Do Millennials differ in terms of survey participation?"
 collection: publications
-permalink: /publication/2019-SEM-MTMM
-excerpt: 'In this article we investigate if groups of unequeal sample sizes can be used in 3-group split-ballot multitrait-multimethod (SB-MTMM) experiments [Read more](https://orioljbosch.github.io/publication/2019-SEM-MTMM)'
-venue: 'Structural Equation Modeling: A Multidisciplinary Journal'
-paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10705511.2018.1536860'
-citation: 'Revilla, M., Bosch, O. J., & Weber, W. (2019). Unbalanced 3-Group Split-Ballot Multitrait–Multimethod Design?. Structural Equation Modeling: A Multidisciplinary Journal, 26(3), 437-447.'
+permalink: /publication/2019-IJMR-Millennial
+excerpt: 'Using a dataset of 1,570,301 panelists of an opt-in online panel in eight countries from Europe, Latin America, and North America, we show that Millennials differ from older cohorts in terms of survey participation [Read more](https://orioljbosch.github.io/publication/2019-IJMR-Millennial)'
+venue: 'International Journal of Market Research'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/1470785318815567'
+citation: 'Bosch, O. J., Revilla, M., & Paura, E. (2019). Do Millennials differ in terms of survey participation?. International Journal of Market Research, 61(4), 359-365.'
 ---
-A common way of estimating measurement quality is the split-ballot multitrait–multimethod (SB-MTMM) approach. However, this approach leads often to non-convergence or improper solutions when using a 2-group design, whereas the 3-group design performs better. Nevertheless, the 3-group design is rarely implemented because it makes it complicated for applied researchers to use the data. Therefore, we propose to draw groups of unequal sample sizes: two larger groups and one third group as small as possible. Using Monte Carlo simulations and real data analyses, we investigate how well such a design works and which size is needed for the third group. Our results suggest that a 3-group SB-MTMM design with smaller size for the third group (reducing till 5–10%) leads to similar levels of accuracy and no large changes in the model or quality estimates.
+Millennials have been the focus of quite some research because of their differences with older cohorts. Besides, young respondents have been considered as a hard target population for surveys. However, to our knowledge, no research has compared the levels and types of survey participation of the Millennials versus the older generations. Using a dataset of 1,570,301 panelists of an opt-in online panel in eight countries from Europe, Latin America, and North America, we show that Millennials differ from older cohorts in terms of survey participation. Millennials show lower participation rates than older cohorts. Moreover, they present significantly higher proportions of surveys answered using smartphones. However, differences across cohorts in terms of break-offs and survey evaluation are mainly nonsignificant and/or nonmeaningful.
 
-[Check paper here](https://www.tandfonline.com/doi/abs/10.1080/10705511.2018.1536860)
+[Check paper here](https://journals.sagepub.com/doi/abs/10.1177/1470785318815567)
