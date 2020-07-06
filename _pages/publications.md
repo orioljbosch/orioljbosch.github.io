@@ -15,10 +15,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   {% include archive-single.html %}
 {% endfor %}
 
-### Reports and non peer-reviewd publications
+### Reports and non peer-reviewed publications
 
 {% include base_path %}
 
-{% for post in site._reports reversed %}
+{% for post in site.reports reversed %}
   {% include archive-single.html %}
 {% endfor %}
