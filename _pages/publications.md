@@ -1,12 +1,13 @@
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=HFj2KYkAAAAJ&hl=ca&oi=sra)
-
-
 ---
 layout: archive
-title: "Peer-reviewed publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=HFj2KYkAAAAJ&hl=ca&oi=sra)
+
+### Peer-reviewed publications
 
 {% include base_path %}
 
@@ -15,12 +16,7 @@ author_profile: true
 {% endfor %}
 
 
----
-layout: archive
-title: "Reports and non peer-reviewed publications"
-permalink: /reports/
-author_profile: true
----
+### Reports and Non Peer-reviewd publications
 
 {% for post in site.reports reversed %}
   {% include archive-single.html %}
