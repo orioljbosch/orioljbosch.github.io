@@ -8,6 +8,9 @@ redirect_from:
   - /consultancy.html
 ---
 
+I am always **open to collaborate on new projects and help design and implement high-quality surveys**. If you are interested in collaborating with me, [contact me](mailto:o.bosch-jover@lse.ac.uk).
+{: .notice}
+
 As a survey methodologist, I am not only experienced and interested in academic research, but also in solving real-world problems.
 
 My expertise can be divided into three areas: 1) mobile and web surveys; 2) questionnaire design and measurement quality and 3) sampling design and assessment.
@@ -17,5 +20,3 @@ My expertise can be divided into three areas: 1) mobile and web surveys; 2) ques
 
 Apart from these experiences, I often collaborate with [LSE consulting](http://www.lse.ac.uk/business-and-consultancy/consulting), helping them prepare bids for tender opportunities.
 
-I am always **open to collaborate on new projects and help design and implement high-quality surveys**. If you are interested in collaborating with me, [contact me](mailto:o.bosch-jover@lse.ac.uk).
-{: .notice}
