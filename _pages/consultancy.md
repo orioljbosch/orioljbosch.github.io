@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /consultancy/
 title: "Consultancy"
 excerpt: "Consultancy"
 author_profile: true
