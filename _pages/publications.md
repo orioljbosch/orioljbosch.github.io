@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 {% endfor %}
 
 
-### Reports and Non Peer-reviewd publications
+### Reports and Non Peer-reviewed publications
 
 {% for post in site.reports reversed %}
   {% include archive-single.html %}
