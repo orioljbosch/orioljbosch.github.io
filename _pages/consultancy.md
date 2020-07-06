@@ -1,11 +1,8 @@
 ---
-permalink: /consultancy/
 title: "Consultancy"
-excerpt: "Consultancy"
-author_profile: true
-redirect_from: 
-  - /consultancy/
-  - /consultancy.html
+permalink: /consultancy/
+author_profile: true 
+
 ---
 
 As a survey methodologist, I am not only experienced and interested in academic research, but also in solving real-world problems.
