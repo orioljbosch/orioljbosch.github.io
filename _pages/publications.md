@@ -18,6 +18,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### Reports and Non Peer-reviewed publications
 
-{% for post in /reports/ reversed %}
+{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
