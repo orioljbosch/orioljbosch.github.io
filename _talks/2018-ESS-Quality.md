@@ -3,7 +3,7 @@ title: "The quality of survey questions in Spain: a cross-national comparison"
 collection: talks
 type: "Congress"
 permalink: /talks/2019-ESS-Quality
-excerpt: '_Using a Split-Ballot Multitrait-Multimethod experiment conducted in the European Social Survey round 8, I explored the quality of questions in Spain with the one in other participating countries. _ [Read more](https://orioljbosch.github.io/talks/2019-ESS-Quality)'
+excerpt: '_Using a Split-Ballot Multitrait-Multimethod experiment conducted in the European Social Survey round 8, I explored the quality of questions in Spain with the one in other participating countries_ [Read more](https://orioljbosch.github.io/talks/2019-ESS-Quality)'
 venue: "1st Spanish European Social Survey Congress"
 date: 2018-09-20
 location: "Madrid, Spain"
