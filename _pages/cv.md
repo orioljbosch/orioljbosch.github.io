@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUN2020.pdf)
+[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUL2020.pdf)
 
 Education
 ======
@@ -84,9 +84,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Teaching assistant**, Barcelona Institute of International Studies (IBEI)
+  * _Course_: Questionnaire Design
+  * _Academic years_: 2017 - 2018 / 2019 - 2019
   
 Consultancy
 ======
@@ -96,7 +96,7 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
 * _Conferences_: Chair (GOR 2020), Reviewer (BigSurv 2020)
 
 Complementary formation
