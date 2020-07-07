@@ -5,10 +5,10 @@ author_profile: true
 
 ---
 
-As a survey methodologist, I am not only experienced and interested in academic research, but also in solving real-world problems.
-
 I am always **open to collaborate on new projects and help design and implement high-quality surveys**. If you are interested in collaborating with me, [contact me](mailto:o.bosch-jover@lse.ac.uk).
 {: .notice}
+
+As a survey methodologist, I am not only experienced and interested in academic research, but also in solving real-world problems.
 
 My expertise can be divided into three areas: 1) mobile and web surveys; 2) questionnaire design and measurement quality and 3) sampling design and assessment.
 1. I have expertise in assessing, designing, and fielding web and mobile surveys. From 2016 to 2018, I collaborated with the online opt-in panel Netquest as a member of the [Netquest Research lab](https://www.netquest.com/netquest-research-lab), exploring ways to improve the way data is collected through web surveys and discover new approaches to implement advanced Data Science methods for contemporary online research. Besides, I have collaborated with the [CROss-National Online Survey (CRONOS)](https://www.europeansocialsurvey.org/methodology/methodological_research/modes_of_data_collection/cronos.html) panel, exploring ways to improve panelist responding behaviour.
