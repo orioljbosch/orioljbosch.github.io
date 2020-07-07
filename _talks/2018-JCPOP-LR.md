@@ -1,7 +1,7 @@
 ---
 title: "The impact of the response format on the left-right self-placement"
 collection: talks
-type: "Workshop"
+type: "Talk"
 permalink: /talks/2018-JCPOP-LF
 excerpt: '_This talk presents the results of an experiment exploring if the response format affects the respondent's self-placement in a question about their self-right ideology_ [Read more](https://orioljbosch.github.io/publication/2018-JCPOP-LF)'
 venue: "5th Workshop on Political Behaviour and Public Opinion (JCPOP)"
