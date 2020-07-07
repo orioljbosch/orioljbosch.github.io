@@ -1,5 +1,5 @@
 ---
-title: "2018). "The quality of survey questions in Spain: a cross-national comparison"
+title: "The quality of survey questions in Spain: a cross-national comparison"
 collection: talks
 type: "Congress"
 permalink: /talks/2019-ESS-Quality
