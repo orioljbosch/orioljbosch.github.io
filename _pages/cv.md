@@ -19,13 +19,11 @@ Education
 * **MSc. in Survey Methods for Social Research**, University of Essex
   * _Location_: Colchester, United Kingdom
   * _Date_: 2018 - 2019
-  * _Thesis_: Answering web surveys with images: an experiment
-    David Lockwood Prize-Best dissertation in the Department of Sociology
+  * _Thesis_: Answering web surveys with images: an experiment <br> David Lockwood Prize-Best dissertation in the Department of Sociology
 * **BS in Political and Administration Science**, Universitat Pompeu Fabra
   * _Location_: Barcelona, Spain
   * _Date_: 2013 - 2017
-  * _Thesis_: [The impact of the response format on the left-right self-placement](https://repositori.upf.edu/bitstream/handle/10230/32547/Boschimpacte.pdf?sequence=1&isAllowed=y)
-    With honors
+  * _Thesis_: [The impact of the response format on the left-right self-placement](https://repositori.upf.edu/bitstream/handle/10230/32547/Boschimpacte.pdf?sequence=1&isAllowed=y) <br> With honors
 
 Work experience
 ======
