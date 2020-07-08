@@ -19,25 +19,25 @@ Education
 * **MSc. in Survey Methods for Social Research**, University of Essex
   * _Location_: Colchester, United Kingdom
   * _Date_: 2018 - 2019
-  * _Thesis_: Answering web surveys with images: an experiment <br> David Lockwood Prize-Best dissertation in the Department of Sociology
+  * _Thesis_: Answering web surveys with images: an experiment <br> _David Lockwood Prize - Best dissertation in the Department of Sociology_
 * **BS in Political and Administration Science**, Universitat Pompeu Fabra
   * _Location_: Barcelona, Spain
   * _Date_: 2013 - 2017
-  * _Thesis_: [The impact of the response format on the left-right self-placement](https://repositori.upf.edu/bitstream/handle/10230/32547/Boschimpacte.pdf?sequence=1&isAllowed=y) <br> With honors
+  * _Thesis_: [The impact of the response format on the left-right self-placement](https://repositori.upf.edu/bitstream/handle/10230/32547/Boschimpacte.pdf?sequence=1&isAllowed=y) <br> _With honors_
 
 Work experience
 ======
 * **Researcher**, Research and Expertise Centre for Survey Methodology (RECSM) - Universitat Pompeu Fabra
   * _Date_: Jul. 2017 - Present
-  * _Duties_: Analyse and report the measurement quality of the European Social Survey, Design and field surveys, Conduct statistical analyses, design survey experiment in collaboration with the online opt-in panel Netquest
+  * _Duties_: Analyse and report the measurement quality of the European Social Survey, design and field surveys, conduct statistical analyses, design survey experiment in collaboration with the online opt-in panel Netquest
 
 * **Research Officer**, Institute for Social and Economic Reseaerch (ISER) - University of Essex
   * _Date_: Oct. 2019 - Sept. 2019
-  * _Duties_: Analyse and report the sampling design of the European Social Survey, Create and mantain databases, Develop and test a longitudinal survey of people in debt in UK for the Money Advice Service
+  * _Duties_: Analyse and report the sampling design of the European Social Survey, create and mantain databases, develop and test a longitudinal survey of people in debt in UK for the Money Advice Service
   
 * **Junior Reseaercher**, Research and Expertise Centre for Survey Methodology (RECSM) - Universitat Pompeu Fabra
   * _Date_: Oct. 2016 - Jul. 2017
-  * _Duties_: Design and field surveys, Conduct statistical analyses, prepare and present presentations for international conferences
+  * _Duties_: Design and field surveys, conduct statistical analyses, prepare and present presentations for international conferences
 
 Research Stays
 ======
@@ -71,13 +71,13 @@ Research Projects
 Publications
 ======
 
-#### Peer-reviewed publications
+### Peer-reviewed publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#### Reports and Non Peer-reviewed publications
+### Reports and Non Peer-reviewed publications
   
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
