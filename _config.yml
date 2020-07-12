@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "Profile pic (2).png"
+og_image                 :  "android-chrome-512x512.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
