@@ -20,4 +20,4 @@ I also have experience consulting and collaborating with institutions to improve
 <meta name="twitter:site" content="@orioljbosch">
 <meta name="twitter:title" content="Oriol J. Bosch - PhD candidate at the London School of Economics">
 <meta name="twitter:description" content="A survey methodologist in the era of Big Data">
-<meta name="twitter:image" content="https://orioljbosch.com/images/Twitter card.png">
+<meta name="twitter:image" content="https://orioljbosch.com/images/Twitter card v2.png">
