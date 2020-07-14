@@ -140,3 +140,11 @@ Computer Skills
 * _Advanced_: STATA, LISREL, Jrule, Microsoft Office
 * _Medium_: R, SPSS, MPlus, AMOS
 * _Basic_: Python, SQL
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@orioljbosch">
+<meta name="twitter:title" content="Oriol J. Bosch - CV">
+<meta name="twitter:description" content="Check out my academic CV">
+<meta name="twitter:image" content="https://orioljbosch.com/images/Twitter card CV.jpg">
