@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUL2020.pdf)
+[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_SEP2020.pdf)
 
 Education
 ======
@@ -27,6 +27,10 @@ Education
 
 Work experience
 ======
+* **Researcher Assistant**, School of Economic Social and Political Science - University of Southampton
+  * _Date_: Sept. 2020 - Present
+  * _Duties_: Elaboration of two literature reviews about 1) maximising participation in both cross-sectional and longitudinal contexts and 2) the utility of probability-based online surveys
+
 * **Researcher**, Research and Expertise Centre for Survey Methodology (RECSM) - Universitat Pompeu Fabra
   * _Date_: Jul. 2017 - Present
   * _Duties_: Analyse and report the measurement quality of the European Social Survey, design and field surveys, conduct statistical analyses, design survey experiment in collaboration with the online opt-in panel Netquest
@@ -50,6 +54,10 @@ Research Projects
 * [**WEB DATA OPP**](https://cordis.europa.eu/project/id/849165)
   * _Date_: 2019 - Present
   * _Principal Investigator_: Dr. Melanie Revilla
+  
+* [**GenPopWeb2**](https://www.ncrm.ac.uk/research/genpopweb2/)
+  * _Date_: 2020 - Present
+  * _Principal Investigator_: Dr. Olga Maslovskaya, Lisa Calderwood, Laura Wilson and Gerry Nicolaas
 
 * [**European Social Survey (ESS)-ERIC-ISER**](https://www.upf.edu/web/survey/european-social-survey-ees-eric-core-scientific-team-cst-2008-ongoing-)
   * _Date_: 2018 - 2019
@@ -104,7 +112,7 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
 * _Conferences_: Chair (GOR 2020), Reviewer (BigSurv 2020)
 
 Complementary formation
