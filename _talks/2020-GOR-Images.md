@@ -14,5 +14,6 @@ We conducted a web survey experiment (N = 3,169) in Germany using an opt-in acce
 Overall, results show higher break-off and item nonresponse rates, as well as lower question evaluation for participants answering with images. Motivational messages slightly reduce item nonresponse. Finally, participants completing the survey with a PC present lower break-off rates but higher item nonresponse.
 To our knowledge, this is the first study that experimentally investigates the impact on break-off, item nonresponse, completion time, and question evaluation of asking respondents to answer open-ended questions with images instead of text. We also go one step further by exploring 1) how motivational messages may improve respondent’s engagement with the survey and 2) the effect of the device used to answer on these four aspects. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcNUg8jH3K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Download the presentation](http://orioljbosch.github.io/files/Bosch_Oriol_A new experiment on the use of images to answer online web survey questions-MRv5.pdf)
