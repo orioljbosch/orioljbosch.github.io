@@ -3,7 +3,7 @@ title: "A new experiment on the use of images to answer web survey question"
 collection: talks
 type: "Conference"
 permalink: /talks/2020-GOR-Images
-excerpt: '_This presentations presents an experiment exploring the impact of using images to answer web survey questions on break-off, item nonresponse, completion time, and question evaluation. _ [Read more](https://orioljbosch.github.io/talks/2020-GOR-Images)'
+excerpt: '_This presentations presents an experiment exploring the impact of using images to answer web survey questions on break-off, item nonresponse, completion time, and question evaluation_ [Read more](https://orioljbosch.github.io/talks/2020-GOR-Images)'
 venue: "20th General Online Research (GOR) conference"
 date: 2020-09-11
 location: "Berlin, Germany (online)"
