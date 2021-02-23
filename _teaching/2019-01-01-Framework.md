@@ -2,8 +2,8 @@
 title: "When survey science met online tracking: presenting an error framework for metered data"
 collection: teaching
 type: "RECSM Working Papers Series"
-permalink: /teaching/2021-Framework
-excerpt: '_In this paper we present a framework of all errors that can occur when using metered data. To do so, we adapt the Total Survey  Error  framework  to  accommodate  it  to  the  specific  error  generating  processes  and  error causes  of  metered  data_ [Read more](https://orioljbosch.github.io/teaching/2021-Framework)'
+permalink: /teaching/2019-Framework
+excerpt: '_In this paper we present a framework of all errors that can occur when using metered data. To do so, we adapt the Total Survey  Error  framework  to  accommodate  it  to  the  specific  error  generating  processes  and  error causes  of  metered  data_ [Read more](https://orioljbosch.github.io/teaching/2019-Framework)'
 venue: '62'
 paperurl: 'https://www.upf.edu/documents/3966940/6839730/WP62.pdf/16aaf443-c545-2f5a-faac-a2bb55dec4d6'
 citation: 'Bosch, O.J.; Revilla, Melanie (2021) When survey science met online tracking : presenting an error framework for metered data. http://hdl.handle.net/10230/46482 '
