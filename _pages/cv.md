@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_SEP2020.pdf)
+[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_FEB2021.pdf)
 
 Education
 ======
@@ -54,6 +54,10 @@ Research Projects
 * [**WEB DATA OPP**](https://cordis.europa.eu/project/id/849165)
   * _Date_: 2019 - Present
   * _Principal Investigator_: Dr. Melanie Revilla
+
+* [**TRI-POL**](https://www.upf.edu/web/tri-pol)
+  * _Date_: 2020 - Present
+  * _Principal Investigator_: Prof. Mariano Torcal
   
 * [**GenPopWeb2**](https://www.ncrm.ac.uk/research/genpopweb2/)
   * _Date_: 2020 - Present
@@ -112,8 +116,8 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
-* _Conferences_: Chair (GOR 2020), Reviewer (BigSurv 2020)
+* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Electoral Studies. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Conferences_: Chair (GOR 2020), Reviewer (GOR 2021, BigSurv 2020)
 
 Complementary formation
 ======
