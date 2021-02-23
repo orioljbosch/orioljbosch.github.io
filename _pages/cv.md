@@ -55,7 +55,7 @@ Research Projects
   * _Date_: 2019 - Present
   * _Principal Investigator_: Dr. Melanie Revilla
 
-* [**TThe triangle of polarization, political trust and political communication (TRI-POL)**](https://www.upf.edu/web/tri-pol)
+* [**The triangle of polarization, political trust and political communication (TRI-POL)**](https://www.upf.edu/web/tri-pol)
   * _Date_: 2020 - Present
   * _Principal Investigator_: Prof. Mariano Torcal
   
