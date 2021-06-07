@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_FEB2021.pdf)
+[Also available in PDF format](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUNE2021.pdf)
 
 Education
 ======
@@ -104,6 +104,10 @@ Talks
   
 Teaching
 ======
+* **Dissertation Adviser**, The London School of Economics and Political Science (LSE)
+  * _Role_: MSc dissertation quant adviser
+  * _Academic years_: 2020 - 2021
+
 * **Teaching assistant**, Barcelona Institute of International Studies (IBEI)
   * _Course_: Questionnaire Design
   * _Academic years_: 2017 - 2018 / 2019 - 2019
@@ -116,8 +120,8 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Electoral Studies. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
-* _Conferences_: Chair (GOR 2020), Reviewer (GOR 2021, BigSurv 2020)
+* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Electoral Studies, European Political Science Review. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Conferences_: Reviewer (GOR 2021, BigSurv 2020), Discussant (Doctoral Workshop Political & Social Sciences UPF 2020)
 
 Complementary formation
 ======
@@ -150,7 +154,7 @@ Languages
 Computer Skills
 ======
 * _Advanced_: STATA, LISREL, Jrule, Microsoft Office
-* _Medium_: R, SPSS, MPlus, AMOS
+* _Medium_: R, SPSS, MPlus, AMOS, LaTeX
 * _Basic_: Python, SQL
 
 
