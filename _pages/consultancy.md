@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I am always **open to collaborate on new projects and help design and implement high-quality surveys**. If you are interested in collaborating with me, [contact me](mailto:o.bosch-jover@lse.ac.uk).
+I am always **open to collaborate on new projects and help design and implement high-quality surveys**. If you are interested in collaborating with me, [drop me a line](mailto:o.bosch-jover@lse.ac.uk).
 {: .notice}
 
 As a survey methodologist, I am not only experienced and interested in academic research, but also in solving real-world problems.
