@@ -165,9 +165,9 @@ Complementary formation
 
 Languages
 ======
-* Spanish (Native)
-* Catalan (Native)
 * English (Full professional proficiency)
+* Catalan (Native)
+* Spanish (Native)
 
 Computer Skills
 ======
