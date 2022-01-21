@@ -39,7 +39,7 @@ Work experience
   * _Date_: Oct. 2019 - Sept. 2019
   * _Duties_: Analyse and report the sampling design of the European Social Survey, create and mantain databases, develop and test a longitudinal survey of people in debt in UK for the Money Advice Service
   
-* **Junior Reseaercher**, Research and Expertise Centre for Survey Methodology (RECSM) - Universitat Pompeu Fabra
+* **Junior Researcher**, Research and Expertise Centre for Survey Methodology (RECSM) - Universitat Pompeu Fabra
   * _Date_: Oct. 2016 - Jul. 2017
   * _Duties_: Design and field surveys, conduct statistical analyses, prepare and present presentations for international conferences
 
@@ -60,7 +60,7 @@ Research Projects
   * _Principal Investigator_: Prof. Mariano Torcal
   
 * [**GenPopWeb2**](https://www.ncrm.ac.uk/research/genpopweb2/)
-  * _Date_: 2020 - Present
+  * _Date_: 2020 - 2021
   * _Principal Investigator_: Dr. Olga Maslovskaya, Lisa Calderwood, Laura Wilson and Gerry Nicolaas
 
 * [**European Social Survey (ESS)-ERIC-ISER**](https://www.upf.edu/web/survey/european-social-survey-ees-eric-core-scientific-team-cst-2008-ongoing-)
@@ -104,24 +104,42 @@ Talks
   
 Teaching
 ======
+* **Graduate Teaching Assistant**, The London School of Economics and Political Science
+  * _Course_: Survey Methodology 
+  * _Academic years_: 2021-2022
+  * 
+* **Graduate Teaching Assistant**, The London School of Economics and Political Science
+  * _Course_: Intermediate Quantitative Analysis 
+  * _Academic years_: 2021-2022
+  * 
 * **Dissertation Adviser**, The London School of Economics and Political Science (LSE)
   * _Role_: MSc dissertation quant adviser
   * _Academic years_: 2020 - 2021
 
-* **Teaching assistant**, Barcelona Institute of International Studies (IBEI)
+* **Teaching Assistant**, Barcelona Institute of International Studies (IBEI)
   * _Course_: Questionnaire Design
   * _Academic years_: 2017 - 2018 / 2019 - 2019
   
 Consultancy
 ======
-* **Money Advice Service**
-  * _Date_: Feb. 2019 / Apr. 2019
-  * _Task_: Development and testing of the design of a longitudinal survey of people in debt
+* **Wellcome Trust**
+  * _Date_: 2021
+  * Analysed a two-wave cross-national survey in 113 countries about mental health and the impact of COVID on opinions about science.
+
+* **Social Care Institute for Excellence (SCIE)**
+  * _Date_: 2021
+  * Collaborated with healthcare practitioners to draft and launch a longitudinal survey of health and care workers for Social Care Wales, aimed at assessing the efficacy of an innovative training programme.
+  
+* **MoneyHelper**
+  * _Date_: 2019
+  * Evaluated and analysed a pilot longitudinal survey of people in debt in the UK (2,025 participants).
+  * Authored a report about the methodological lessons learned, aimed at identifying the best procedures to use on the new survey and providing estimates of the sample size that would be needed.
+
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Electoral Studies, European Political Science Review. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
-* _Conferences_: Reviewer (GOR 2021, BigSurv 2020), Discussant (Doctoral Workshop Political & Social Sciences UPF 2020)
+* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Field Methods, AMC-CHI22, Electoral Studies, European Political Science Review. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Conferences_: Reviewer (GOR 2021/22, BigSurv 2020), Discussant (Doctoral Workshop Political & Social Sciences UPF 2020)
 
 Complementary formation
 ======
