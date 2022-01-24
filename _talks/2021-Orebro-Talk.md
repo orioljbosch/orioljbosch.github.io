@@ -1,7 +1,7 @@
 ---
 title: "New opportunities to enhance or extend (mobile) web survey data."
 collection: talks
-type: "Conference"
+type: "Invited Talk"
 permalink: /talks/2021-Orebro-Talk
 excerpt: '_In this presentation I discussed some of the new opportunities that sensors, apps and web tracking approaches bring to 
 the survey research field, as well as the challenges that we have identified so far_ 
