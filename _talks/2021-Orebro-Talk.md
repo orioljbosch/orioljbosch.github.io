@@ -7,7 +7,7 @@ excerpt: '_In this presentation I discussed some of the new opportunities that s
 the survey research field, as well as the challenges that we have identified so far_ 
 [Read more](https://orioljbosch.github.io/talks/2021-Orebro-Talk)'
 venue: "Seminar series in Statistic at Örebro University School of Business (Sweden)"
-date: 2020-09-12
+date: 2021-09-12
 location: "Sweden (Online)"
 ---
 
