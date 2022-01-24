@@ -5,7 +5,7 @@ type: "Conference"
 permalink: /talks/2021-MASS-Undercoverage
 excerpt: '_This presentations presents a theoretical discussion about the potential challenges for web tracking data of not tracking all devices,
 browsers and networks that participants use to visit the internet, when making inferences about online behaviours_ 
-[Read more](https://orioljbosch.github.io/talks/2020-GOR-Images)'
+[Read more](https://orioljbosch.github.io/talks/2021-MASS-Undercoverage.md)'
 venue: "2nd Mobile Apps and Sensors in Surveys (MASS) Workshop"
 date: 2021-03-01
 location: "Utrecht, Netherlands (online)"
