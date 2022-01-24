@@ -1,7 +1,7 @@
 ---
 title: "Track me but not really: device undercoverage and its consequences when tracking online behaviour."
 collection: talks
-type: "Conference"
+type: "Workshop"
 permalink: /talks/2021-MASS-Undercoverage
 excerpt: '_This presentations presents a theoretical discussion about the potential challenges for web tracking data of not tracking all devices,
 browsers and networks that participants use to visit the internet, when making inferences about online behaviours_ 
