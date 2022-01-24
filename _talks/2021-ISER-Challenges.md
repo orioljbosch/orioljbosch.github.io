@@ -2,7 +2,7 @@
 title: "The challenges of using metered data to study online behaviours"
 collection: talks
 type: "Conference"
-permalink: /talks/2021-ISER-Challenges.md
+permalink: /talks/2021-ISER-Challenges
 excerpt: '_In this invited talk I discussed some of the current main challenges that researchers face when trying to collect web tracking data
 to measure online behaviours_ 
 [Read more](https://orioljbosch.github.io/talks/2021-ISER-Challenges)'
