@@ -30,6 +30,10 @@ Education
 
 Work experience
 ======
+* **Researcher Assistant**, The Alan Turing Institute
+  * _Date_: May 2022 - Present
+  * Design and analysis of a nationally representative survey about british citizen's opinions about AI 
+
 * **Researcher Assistant**, School of Economic Social and Political Science - University of Southampton
   * _Date_: Sept. 2020 - Present
   * Wrote two reports about 1) best strategies to maximise participation rates in online surveys and 2) the utility of probability-based online panels. 
