@@ -2,7 +2,7 @@
 title: "Track Me but Not Really: Tracking Undercoverage in Metered Data Collection."
 collection: talks
 type: "Conference"
-permalink: /talks/2022-AAPOR-Undercoverage.md
+permalink: /talks/2022-AAPOR-Undercoverage
 excerpt: '_This presentations explores the prevalence of tracking undercoverage on metered data research, and its potential for introducing bias to both univariate and multivariate estimates_ 
 [Read more](https://orioljbosch.github.io/talks/2022-AAPOR-Undercoverage)'
 venue: "77th American Association for Public Opinion Research (AAPOR) conference"
