@@ -7,7 +7,7 @@ excerpt: '_This presentations explores the convergent and predictive validity of
 [Read more](https://orioljbosch.github.io/talks/2022-AAPOR-Validity)'
 venue: "77th American Association for Public Opinion Research (AAPOR) conference"
 date: 2022-05-13
-location: "Online"
+location: "Chicago, USA"
 ---
 
 _Description_: Metered data, also called “web-tracking data”, is generally collected from a sample of participants who willingly install or configure, into their devices, technologies that track digital traces left when people go online (e.g. URLs visited). Since metered data allows observation of web browsing unobtrusively and without relying on self-reports, it has been proposed as a potentially useful tool to measure online behaviours.
