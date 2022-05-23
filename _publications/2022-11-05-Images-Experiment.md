@@ -2,7 +2,7 @@
 title: "A new experiment on the use of images to answer web survey questions"
 collection: publications
 permalink: /publication/2022-JRSS-Images
-excerpt: '_In this experiment we explore the impact on several data quality indeicators of askin participants to answer open-ended questions with images, instead than with text_ [Read more](https://orioljbosch.github.io/publication/2022-JRSS-Images)'
+excerpt: '_In this experiment we explore the impact on several data quality indicators of asking participants to answer open-ended questions with images, instead than with text_ [Read more](https://orioljbosch.github.io/publication/2022-JRSS-Images)'
 venue: 'Journal of the Royal Statistical Society: Series A'
 paperurl: 'https://doi.org/10.1111/rssa.12856'
 citation: 'Bosch, O.J., Revilla, M., Qureshi, D.D. & Höhne, J.K. (2022) A new experiment on the use of images to answer web survey questions. Journal of the Royal Statistical Society: Series A (Statistics in Society), 1–26. Available from: https://doi.org/10.1111/rssa.12856'
