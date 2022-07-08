@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_MAY22.pdf)
+[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUNE22.pdf)
 
 [Download my industry Résumé](http://orioljbosch.github.io/files/Resume - Oriol Bosch - Facebook.pdf)
 
