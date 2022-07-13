@@ -2,7 +2,7 @@
 title: "Survey research in the digital age: Online Nonprobability Surveys and Post-Stratification"
 collection: talks
 type: "Invited lecture"
-permalink: /talks/22022-SICSS-Oxford
+permalink: /talks/2022-SICSS-Oxford
 excerpt: '_In this invited lecture I introduced students to the basics of nonprobability online surveys, and the opportunities and challenges that new data collection approaches bring to social science research_ 
 [Read more](https://orioljbosch.github.io/talks/2022-AAPOR-Validity)'
 venue: "Summer Institute in Computational Social Sciences - Oxford"
