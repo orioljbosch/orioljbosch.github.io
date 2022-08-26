@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_JUNE22.pdf)
+[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_AUGUST22.pdf)
 
 [Download my industry Résumé](http://orioljbosch.github.io/files/Resume - Oriol Bosch - Facebook.pdf)
 
@@ -117,6 +117,10 @@ Talks
   
 Teaching
 ======
+* **Invited lecturer**, Summer Institutes in Computational Social Science, University of Oxford
+  * _Course_: Survey research in the digital age: Online Nonprobability Surveys and Post-Stratification 
+  * _Academic years_: 2021-2022
+
 * **Graduate Teaching Assistant**, The London School of Economics and Political Science
   * _Course_: Survey Methodology 
   * _Academic years_: 2021-2022
@@ -127,11 +131,11 @@ Teaching
   
 * **Dissertation Adviser**, The London School of Economics and Political Science (LSE)
   * _Role_: MSc dissertation quant adviser
-  * _Academic years_: 2020 - 2021
+  * _Academic years_: 2021 - 2022 / 2020 - 2021 
 
 * **Teaching Assistant**, Barcelona Institute of International Studies (IBEI)
   * _Course_: Questionnaire Design
-  * _Academic years_: 2017 - 2018 / 2019 - 2019
+  * _Academic years_: / 2018 - 2019 / 2017 - 2018 
   
 Consultancy
 ======
@@ -151,7 +155,8 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Journal of Media and Psychology, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Field Methods, AMC-CHI22, Electoral Studies, European Political Science Review. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
+* _Referee_: Social Science Computer Review, Public Opinion Quarterly, Field Methods, Quality and Quantity, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Electoral Studies, European Political Science Review, Journal of Media Psychology, Behaviour & Information Technology, AMC-CHI22, Journal of Survey Statistics and Methodology
+. See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
 * _Conferences_: Reviewer (GOR 2021/22, BigSurv 2020), Discussant (Doctoral Workshop Political & Social Sciences UPF 2020)
 
 Complementary formation
@@ -184,8 +189,8 @@ Languages
 
 Computer Skills
 ======
-* _Advanced_: STATA, LISREL, Jrule, Microsoft Office
-* _Medium_: R, SPSS, MPlus, AMOS, LaTeX
+* _Advanced_: R, STATA, LISREL, Jrule, Microsoft Office
+* _Medium_: SPSS, MPlus, AMOS, LaTeX
 * _Basic_: Python, SQL
 
 
