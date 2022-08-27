@@ -1,5 +1,5 @@
 ---
-title: "A new experiment on the use of images to answer web survey questions"
+title: "When survey science met web tracking: presenting an error framework for metered data"
 collection: publications
 permalink: /publication/2022-JRSS-Framework
 excerpt: '_Paper accepted for publication at the Journal of the Royal Statistical Society: Series A_ [Read more](https://orioljbosch.github.io/publication/2022-JRSS-Framework)'
