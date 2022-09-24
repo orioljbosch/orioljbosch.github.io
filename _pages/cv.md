@@ -65,7 +65,7 @@ Research Stays
 Publications
 ======
 
-### Peer-reviewed publications
+### Peer-reviewed publications (10)
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
