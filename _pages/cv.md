@@ -62,6 +62,21 @@ Research Stays
   * _Date_: Apr. 2019 / Jul. 2019
   * Designed, implemented, and analysed a survey experiment testing the impact of asking participants to answer open-ended questions with images, instead of with text, on several data quality indicators. 
 
+Publications
+======
+
+### Peer-reviewed publications
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+### Reports and Non Peer-reviewed publications
+  
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Research Projects
 ======
 * [**WEB DATA OPP**](https://cordis.europa.eu/project/id/849165)
@@ -91,23 +106,6 @@ Research Projects
 * [**CROSss-National Online Survey Panel - SERISS**](https://www.europeansocialsurvey.org/methodology/methodological_research/modes_of_data_collection/cronos.html)
   * _Date_: 2017-2018
   * _Principal Investigator_: Dr. Wiebke Weber
-
-
-Publications
-======
-
-### Peer-reviewed publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-### Reports and Non Peer-reviewed publications
-  
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
   
 Talks
 ======
