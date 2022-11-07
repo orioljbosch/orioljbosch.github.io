@@ -2,7 +2,7 @@
 title: "When survey science met web tracking: presenting an error framework for metered data"
 collection: publications
 permalink: /publication/2022-JRSS-Framework
-excerpt: '_Paper accepted for publication at the Journal of the Royal Statistical Society: Series A_ [Read more](https://orioljbosch.github.io/publication/2022-JRSS-Framework)'
+excerpt: '_In this paper we present a Total Error Framework for Digital Trace Data / Web Tracking data. We show how to use web tracking to measure what people do online, the errors to expect when doing so, and best practices informed by a real case study_ [Read more](https://orioljbosch.github.io/publication/2022-JRSS-Framework)'
 venue: 'Journal of the Royal Statistical Society: Series A'
 paperurl: 'https://doi.org/10.1111/rssa.12956'
 citation: 'Bosch, O.J., Revilla, M. (2022) When survey science met web tracking: presenting an error framework for metered data. Journal of the Royal Statistical Society: Series A (Statistics in Society), Forthcoming: https://doi.org/10.1111/rssa.12956'
