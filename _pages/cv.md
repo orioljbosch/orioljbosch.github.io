@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_NOV22.pdf)
+[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_DEC22.pdf)
 
 [Download my industry Résumé](http://orioljbosch.github.io/files/Resume - Oriol Bosch - Facebook.pdf)
 
@@ -153,7 +153,7 @@ Consultancy
 
 Academic Service and leadership
 ======
-* _Referee_: Social Science Computer Review, Public Opinion Quarterly, Field Methods, Quality and Quantity, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Electoral Studies, European Political Science Review, Journal of Media Psychology, Behaviour & Information Technology, AMC-CHI22, Journal of Survey Statistics and Methodology
+* _Referee_: Social Science Computer Review, Public Opinion Quarterly, Field Methods, Quality and Quantity, International Journal of Social Research Methodology, Survey Research Methods, Sociological Methods and Research, Electoral Studies, European Political Science Review, Journal of Media  Psychology, Behaviour & Information Technology, AMC-CHI22, Journal of Survey Statistics and Methodology, New Media and Society, Advances in  Methods and Practices in Psychological Science
 . See my [Publons profile](https://publons.com/researcher/3202994/oriol-j-bosch/)
 * _Conferences_: Reviewer (GOR 2021/22, BigSurv 2020), Discussant (Doctoral Workshop Political & Social Sciences UPF 2020)
 
