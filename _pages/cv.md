@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_DEC22.pdf)
+[Download my academic CV](http://orioljbosch.github.io/files/Oriol_Bosch_CV_MAY23.pdf)
 
 [Download my industry Résumé](http://orioljbosch.github.io/files/Resume - Oriol Bosch - Facebook.pdf)
 
@@ -84,7 +84,7 @@ Research Projects
   * _Principal Investigator_: Dr. Melanie Revilla
 
 * [**The triangle of polarization, political trust and political communication (TRI-POL)**](https://www.upf.edu/web/tri-pol)
-  * _Date_: 2020 - Present
+  * _Date_: 2020 - 2023
   * _Principal Investigator_: Prof. Mariano Torcal
   
 * [**GenPopWeb2**](https://www.ncrm.ac.uk/research/genpopweb2/)
@@ -121,7 +121,7 @@ Teaching
 
 * **Graduate Teaching Assistant**, The London School of Economics and Political Science
   * _Course_: Survey Methodology 
-  * _Academic years_: 2021-2022
+  * _Academic years_: 2022-2023 / 2021 - 2022
   
 * **Graduate Teaching Assistant**, The London School of Economics and Political Science
   * _Course_: Intermediate Quantitative Analysis 
