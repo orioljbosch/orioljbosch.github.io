@@ -3,8 +3,7 @@ title: "Are centrists even real? Combining survey self-reports and web tracking 
 collection: talks
 type: "Conference"
 permalink: /talks/2023-AAPOR-Centrists
-excerpt: '_This presentations presents and validates an approach to measure people's ideology based on their media diets, measured using web tracking data_ 
-[Read more](https://orioljbosch.github.io/talks/2023-AAPOR-Cnetrists)'
+excerpt: '_This presentations presents and validates an approach to measure people's ideology based on their media diets, measured using web tracking data_ [Read more](https://orioljbosch.github.io/talks/2023-AAPOR-Cnetrists)'
 venue: "78th American Association for Public Opinion Research (AAPOR) conference"
 date: 2023-05-10
 location: "Philadelphia, USA"
