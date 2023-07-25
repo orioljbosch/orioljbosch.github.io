@@ -1,5 +1,5 @@
 ---
-title: "Surveys or digital trace data, which one should we use?Using MultiTrait-MultiMethod models to simultaneously estimate the measurement quality of surveys and digital trace data"
+title: "Surveys or digital trace data, which one should we use? Using MultiTrait-MultiMethod models to simultaneously estimate the measurement quality of surveys and digital trace data"
 collection: Talk
 type: "Talk"
 permalink: /talks/2023-ESRA-MTMM
