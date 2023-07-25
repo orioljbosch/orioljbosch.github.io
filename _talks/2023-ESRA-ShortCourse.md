@@ -3,20 +3,23 @@ title: "Measuring Citizen’s Digital Behaviours Using Web Trackers and Data Don
 collection: Short Course
 type: "Short Course"
 permalink: /talks/2023-ESRA-ShortCourse
-excerpt: '_It is important to understand the measurement quality of digital trace data. In this talk, I show and approach to assess the measruement quality of both digital trace data and surveys simultaneously, using MultiTrat-MultiMethod models_ 
+excerpt: '_In this short course, I taught participants how to collect information about what people do online and on their digital devices using web trackers and data donations. Specifically, I showed them the current best practices to maximise the quality of the data, while producing transparent and robust research._ 
 [Read more](https://orioljbosch.github.io/talks/2023-ESRA-ShortCourse)'
 venue: "European Survey Research Association (ESRA) conference"
 date: 2023-07-18
 location: "Milan, Italy"
 ---
 
-_Description_: Measuring what people do online is crucial across all areas of social science research. Although self-reports are still the main instrument to measure online behaviours, there is evidence to doubt about their validity. Consequently, researchers are increasingly relying on digital trace data to measure online phenomena, assuming that it will lead to higher quality statistics. Recent evidence, nonetheless, suggests that digital trace data is also affected by measurement errors, questioning its gold standard status. Therefore, it is essential to understand the size of the measurement errors in digital trace data, and when it might be best to use each data source.
+_Description_: The expansion of the Internet, together with the capabilities of modern connected devices, result in a plethora of data that promise fascinating opportunities to understand individuals’ digital behaviours. This course will teach students how to measure digital behaviours using web trackers and data donations, and how to combine these approaches with online surveys. The course has the following learning objectives:
 
-To this aim, we adapt the Generalised MultiTrait-MultiMethod (GMTMM) model created by Oberski et al. (2017) to simultaneously estimate the measurement errors in survey and digital trace data. The GTMM allows both survey and digital trace data to contain random and systematic measurement errors, while accommodating the specific characteristics of digital trace data (i.e., zero-inflation).
+Develop an understanding of what web tracking data and data donations are. Learn how web tracking data and data donations can be collected and analysed, and how they can be combined with surveys. Recognise the challenges and errors that might arise in every step of the process of collecting and analysing both data sources. Develop best practices when using this type of data, specifically, strategies to quantify, minimise and report potential errors. Evaluate the limits of their own and others’ web tracking and data donation collection strategies.
 
-To simultaneously assess the measurement quality of both sources of data, we use survey and digital trace data linked at the individual level (N = 1,200), collected using a metered online opt-in panel in Spain. Using this data, we conducted three separate GMTMM models focusing on the measurement quality of survey and digital trace data when measuring three different types of online behaviours: news media exposure, online communication and entertainment. Specifically, for each type of behaviour, we measured three simple concepts (e.g., time spent reading articles about politics and current affairs) with both survey self-reports and digital traces. For each simple concept, we present the reliability and method effects of each data source.
+To aid students achieve the above learning outcomes, the course will have two interactive activities:
 
-Results provide needed evidence about the size of digital trace data errors, as well as when the use of self-reports might be justified.
+Using the unique TRI-POL open access datasets, a cross-national longitudinal survey combined with web tracking data, students will familiarise with a web tracking dataset. Likewise, students will learn how to use computational methods such as Monte Carlo simulations and machine learning to quantify the data quality of digital trace data.
 
-[Download the presentation](http://orioljbosch.github.io/files/MTMM presentation.pdf)
+Students will get hand-on experience about a specific type of data donation: screenshots and video recordings of the Digital Wellbeing / Screen Time from Android and iOS, which provide information of the time spent on apps and webs from individuals’ devices. They will learn how to automatize the extraction of information from those screenshots. Specifically, students will learn how to run an R script that sends images to Google Vision API, extracts the text from the images, and creates a workable structured dataset.
+
+
+[Download the presentation](http://orioljbosch.github.io/files/ESRA SHORT COURSE.pdf)
 
