@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a [Postdoctoral researcher](http://www.lse.ac.uk/Methodology/People/Research-Students/Oriol-Bosh-Jover/Oriol-Bosch-Jover) in Data Donation and Computational Methods at the [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/) and [Nuffield College](https://www.nuffield.ox.ac.uk/). I am also a [Non-Resident Researcher](https://www.upf.edu/web/survey/entry/-/-/U91787/adscripcion/oriol-bosch) at the [Research and Expertise Centre for Survey Methodology (RECSM)](https://www.upf.edu/web/survey). I got my PhD in Social Research Methods from the [Department of Methodology](http://www.lse.ac.uk/Methodology) at the London School of Economics and Political Science (LSE).
+Hi there! I am a [Postdoctoral researcher](http://www.lse.ac.uk/Methodology/People/Research-Students/Oriol-Bosh-Jover/Oriol-Bosch-Jover) in Data Donation and Computational Methods at the [Leverhulme Centre for Demographic Science](https://www.demography.ox.ac.uk/) at the University of Oxford, and [Nuffield College](https://www.nuffield.ox.ac.uk/). I am also a [Non-Resident Researcher](https://www.upf.edu/web/survey/entry/-/-/U91787/adscripcion/oriol-bosch) at the [Research and Expertise Centre for Survey Methodology (RECSM)](https://www.upf.edu/web/survey). I got my PhD in Social Research Methods from the [Department of Methodology](http://www.lse.ac.uk/Methodology) at the London School of Economics and Political Science (LSE).
 
 My work and research
 ======
